@@ -10,4 +10,4 @@ I work at Tata Motors Limited, Pune. [Engine Base calibration](https://www.mathw
 
 ### GET IN TOUCH
 
- ![["https://img.icons8.com/color/48/000000/gmail-new.png)"]](mailto:persecvs@gmail.com) | [twitter](https://twitter.com/vishal_5ingh)
+ ![[](mailto:persecvs@gmail.com)](https://img.icons8.com/color/48/000000/gmail-new.png) | [twitter](https://twitter.com/vishal_5ingh)
