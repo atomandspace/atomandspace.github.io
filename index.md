@@ -6,7 +6,7 @@ I work at Tata Motors Limited, Pune. [Engine Base calibration](https://www.mathw
 
 ### SKILLS AND CREDENTIALS
 
-![Image](https://github.com/atomandspace/atomandspace.github.io/blob/main/certs/Coursera%203YHPPV3ERPY9.pdf)
+![Image](https://github.com/atomandspace/atomandspace.github.io/blob/main/profile/4943IN9U_400x400.jpg)
 
 ### GET IN TOUCH
 
