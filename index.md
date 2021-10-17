@@ -4,7 +4,11 @@ I'm an [Engine Management System](http://www.autotap.com/techlibrary/intro_to_en
 I work at Tata Motors Limited, Pune. [Engine Base calibration](https://www.mathworks.com/videos/engine-base-calibration-a-model-based-approach-for-the-air-charge-model-calibration-1525331994542.html), [Emission Calibration](https://dieselnet.com/tech/engine_emission-control.php) and [OBD-Calibration](https://x-engineer.org/automotive-engineering/internal-combustion-engines/diagnostics/on-board-diagnostics-obd-modes-operation-diagnostic-services/) are area of my expertise. I'm a huge fan of using technology for improving quality of work. Apart from calibration work, I have developed several [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/readme/) based applications for reducing human effort in calibration data analytics. I love participating in data analysis competitions to learn new methods and showcase myskills.
 
 
-### SKILLS AND CREDENTIALS
+### SKILL & CREDENTIALS
+1. Machine Learning
+2. Deep Learning
+3. SQL
+4. Web-Development
 
 ![Profile_Image](https://github.com/atomandspace/atomandspace.github.io/blob/main/profile/4943IN9U_400x400.jpg) 
 
