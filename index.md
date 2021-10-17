@@ -11,10 +11,5 @@ I work at Tata Motors Limited, Pune. [Engine Base calibration](https://www.mathw
 4. Web-Development
 5. Certificates
 
-`
-!["Hello"](https://github.com/atomandspace/atomandspace.github.io/blob/main/certs/Database-SQL.png)
-`
-
-
 ### GET IN TOUCH
  [![](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:persecvs@gmail.com)    [![](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/vishal_5ingh)    [![](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/persecvs/)    [![](https://img.icons8.com/color/48/000000/github--v1.png)](https://github.com/atomandspace/)    [![](https://img.icons8.com/windows/48/000000/kaggle.png)](https://www.kaggle.com/atomandspace)    [![](https://img.icons8.com/windows/48/000000/hackerrank.png)](https://www.hackerrank.com/Atomand_space)
