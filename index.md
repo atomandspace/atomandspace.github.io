@@ -4,7 +4,7 @@ I'm an [Engine Management System](http://www.autotap.com/techlibrary/intro_to_en
 I work at Tata Motors Limited, Pune. [Engine Base calibration](https://www.mathworks.com/videos/engine-base-calibration-a-model-based-approach-for-the-air-charge-model-calibration-1525331994542.html), [Emission Calibration](https://dieselnet.com/tech/engine_emission-control.php) and [OBD-Calibration](https://x-engineer.org/automotive-engineering/internal-combustion-engines/diagnostics/on-board-diagnostics-obd-modes-operation-diagnostic-services/) are area of my expertise. I'm a huge fan of using technology for improving quality of work. Apart from calibration work, I have developed several [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/readme/) based applications for reducing human effort in calibration data analytics. I love participating in data analysis competitions to learn new methods and showcase myskills.
 
 
-### 
+### Skills and Credentials
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](http://assets.nydailynews.com/polopoly_fs/1.2590673.1459965149!/img/httpImage/image.jpg_gen/derivatives/article_750/ford7a-3-web.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
