@@ -5,7 +5,7 @@ I work at Tata Motors Limited, Pune. [Engine Base calibration](https://www.mathw
 
 
 ### SKILL & CREDENTIALS
-1. Machine Learning :  ![](https://github.com/atomandspace/atomandspace.github.io/blob/main/certs/Database-SQL.png)
+1. Machine Learning :  !["Hello"](https://github.com/atomandspace/atomandspace.github.io/blob/main/certs/Database-SQL.png)
 2. Deep Learning
 3. SQL
 4. Web-Development
