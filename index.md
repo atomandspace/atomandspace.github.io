@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## VISHAL SINGH
+I'm an [Engine Management System](http://www.autotap.com/techlibrary/intro_to_engine_management.asp) Calibration expert based in Pune, India. I have worked on Spark-Ignition-Engine's [Base calibration](https://www.mathworks.com/videos/engine-base-calibration-a-model-based-approach-for-the-air-charge-model-calibration-1525331994542.html), [Emission Calibration](https://dieselnet.com/tech/engine_emission-control.php) and [OBD-Calibration](https://x-engineer.org/automotive-engineering/internal-combustion-engines/diagnostics/on-board-diagnostics-obd-modes-operation-diagnostic-services/). I'm a huge fan of using python for improving productivity in routine calibration task. I have developed several [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/readme/) based applications for reducing human effort in calibration data analytics
 
-You can use the [editor on GitHub](https://github.com/atomandspace/atomandspace.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,7 +28,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atomandspace/atomandspace.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/atomandspace/atomandspace.githhub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
