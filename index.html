@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"> -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.css" rel="stylesheet" />
     
     
     <style>
@@ -30,7 +31,7 @@
 
         <!-- Navigation Links -->
         <nav>
-            <ul class="font-bold text-blue-500">
+            <ul class="font-bold text-xl text-red-500">
                 <li class="mb-2">
                     <a href="#about" class="text-black-400 hover:text-gray-400">About</a>
                 </li>
@@ -46,30 +47,40 @@
                 <li class="mb-2">
                     <a href="#education" class="text-black-400 hover:text-gray-400">Education</a>
                 </li>
-                <li class="mb-2">
-                    <a href="#certification" class="text-black-400 hover:text-gray-400">Certificaton</a>
-                </li>
+
                 <li class="mb-2">
                     <a href="#contact" class="text-black-400 hover:text-gray-400">Contact</a>
                 </li>
+
                 <li class="mb-2">
                     <a href="#resume" class="text-black-400 hover:text-gray-400">Resumé</a>
                 </li>
+
+                <li class="mb-2">
+                    <a href="#certification" class="text-black-400 hover:text-gray-400">Certificaton</a>
+                </li>
+
             </ul>
         </nav>
     </aside>
 
     <!-- Main Content -->
-    <main class="flex-1 ml-12 p-6">
+    <main class="flex-1 ml-20 p-6">
         <!-- Your content goes here -->
-        <section id="first" class="mb-20">
-            <h2 class="text-2xl font-bold mb-4">Hi, I am <span class="text-blue-600">Vishal Singh</span></h2>
-            <h3 class="text-m font-bold ml-0">
+        <section id="first" class="mb-80">
+            <br>
+            <br>
+            <br>
+            <h2 class="text-4xl font-bold mb-4">Hi, I am <span class="text-red-600">Vishal Singh</span></h2>
+            <h3 class="text-md font-bold mb-60">
                 Data Scientist and Python Developer
+                <br>
+                <br>
+                <br>
             </h3>
         </section>
-        <section id="about" class="mb-12">
-            <h2 class="text-blue-600 text-2xl font-bold mb-4">About</h2>
+        <section id="about" class="mt-10 mb-12">
+            <h2 class="text-red-600 text-3xl font-bold mb-4 underline">About</h2>
             <p class="text-lg">
                 I am a <b>Mechanical engineering</b> graduate student from <b>Indian Institute of Technology, Guwahati.</b>
                 I've been working in Automotive industry for last five years. I'm passionate about Problem Solving,
@@ -94,31 +105,130 @@
             </p>
         </section>
 
-        <section id="experience" class="mb-12">
-            <h2 class="text-blue-600 text-2xl font-bold mb-4">Work Experience</h2>
+        <section id="experience" class="mt-10 mb-12">
+            <h2 class="text-red-600 text-3xl font-bold mb-4 underline">Work Experience</h2>
+            <div class="flex flex-wrap mx-3">
+                <!--volvo group -->
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2">
+                    <img class="rectangle-photo w-40 h-12" src="assets/docs/work/Volvo_logo.svg.png" alt="Sunset in the mountains">
+                    <div class="px-6 py-4">
+                      <div class="font-bold text-xl mb-2">Volvo Group India Pvt Ltd</div>
+                      <p class="text-grey-darker text-base">
+                        Data Scinetist, Powertrain Engineering, (Current Role)
+                      </p>
+                    </div>
+                </div>
+
+                <!-- mercedes-benz -->
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2">
+                    <img class="w-18 h-12 rectangle-photo" src="assets/docs/work/Mercedes-Benz-Logo-500x311.png" alt="Sunset in the mountains">
+                    <div class="px-6 py-4">
+                      <div class="font-bold text-xl mb-2">Mercedes-Benz R&D India</div>
+                      <p class="text-grey-darker text-base">
+                        Data Scientist, Powertrain Engineering, (2021-2022)
+                      </p>
+                    </div>
+                </div>
+
+                <!-- Tata motors -->
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2">
+                    <img class="w-12 h-12 rectangle-photo" src="assets/docs/work/Tata_logo.svg.png" alt="Sunset in the mountains">
+                    <div class="px-6 py-4">
+                      <div class="font-bold text-xl mb-2">Tata Motors Ltd, India</div>
+                      <p class="text-grey-darker text-base">
+                        Combustion & Calibration Engineer, Powertrain Engineering, (2018-2021)
+                      </p>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <!-- Repeat similar sections for Experience, Projects, Skills, Education, Contact, and Resume -->
-        <section id="projects" class="mb-12">
-            <h2 class="text-blue-600 text-2xl font-bold mb-4">Projects</h2>
+        <section id="projects" class="mt-10 mb-12">
+            <h2 class="text-red-600 text-3xl font-bold mb-4 underline">Projects</h2>
+            <p> To be updated soon</p>
         </section>
 
-        <section id="skills" class="mb-12">
-            <h2 class="text-blue-600 text-2xl font-bold mb-4">Skills</h2>
+        <section id="skills" class="mt-10 mb-12">
+            <h2 class="text-red-600 text-3xl font-bold mb-4 underline">Skills</h2>
+            <!-- Programming skills -->
+            <h4 class="text-red-300 text-xl font-bold mb-4">Programming</h4>
+
+            <div class="flex flex-wrap mx-3">
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-0 m-2">
+                    <img class="w-full rectangle-photo" src="assets/docs/skills/python-logo.png" alt="Sunset in the mountains">
+                </div>
+
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-0 m-2">
+                    <img class="h-16 rectangle-photo bg-white" src="assets/docs/skills/matlab1.png" alt="Sunset in the mountains">
+                </div>
+            </div>
+
+            <!-- Machine learning -->
+            <h4 class="text-red-300 text-xl font-bold mb-4">Machine Learning</h4>
+            <div class="flex flex-wrap mx-3">
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2">
+                    <img class="w-20" src="assets/docs/skills/tensorflow.png" alt="Sunset in the mountains">
+                </div>
+            </div>
+
+            <!-- Web Framework-->
+            <h4 class="text-red-300 text-xl font-bold mb-4">Web framework</h4>
+            <div class="flex flex-wrap mx-3">
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2">
+                    <img class="w-24" src="assets/docs/skills/flask.png" alt="Sunset in the mountains">
+                </div>
+            </div>
         </section>
 
-        <section id="education" class="mb-12">
-            <h2 class="text-blue-600 text-2xl font-bold mb-4">Education</h2>
+        <section id="education" class="mt-10 mb-12">
+            <h2 class="text-red-600 text-3xl font-bold mb-4 underline">Education</h2>
+            <div class="flex flex-wrap mx-2">
+                <!--Masters -->
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2">
+                    <img class="w-full" src="assets/docs/education/iitglogo.jpg" alt="Sunset in the mountains">
+                    <div class="px-6 py-4">
+                      <div class="font-bold text-xl mb-2">Masters (2016-2018)</div>
+                      <p class="text-grey-darker text-base">
+                        Master of Technology (M.Tech) in Mechanical Engineering. Specialization in Computer Assisted Manufacturing.
+                      </p>
+                    </div>
+                </div>
+
+                <!-- Undergrad -->
+                <div class="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2">
+                    <img class="w-full" src="assets/docs/education/ggucomplete.png" alt="Sunset in the mountains">
+                    <div class="px-6 py-4">
+                      <div class="font-bold text-xl mb-2">Bachelors (2012-2016)</div>
+                      <p class="text-grey-darker text-base">
+                        Bachelor of Technology (B.Tech) in Mechanical Engineering. Special focus on machine design, engineering mechanics and thermodynamics
+                      </p>
+                    </div>
+                </div>
+            </div>
         </section>
 
-        <section id="certifications" class="mb-12">
-            <h2 class="text-blue-600 text-2xl font-bold mb-4">Certifications</h2>
+        <section id="contact" class="mt-10 b-12">
+            <h2 class="text-red-600 text-3xl font-bold mb-4 underline">Contact</h2>
+            <ul>
+                <li><a href="mailto:persecvs@gmail.com"></a>persecvs@gmail.com</li>
+                <li> <a href="https://in.linkedin.com/in/imvishalsingh">Connect on Linkedin</a></li>
+                <li> <a href="https://twitter.com/vishal_5ingh">Connect on X</a></li>
+            </ul>
+        </section>
+
+        <section id="resume" class="mt-10 mb-12">
+            <h2 class="text-red-600 text-3xl font-bold mb-4 underline">Download Resumé</h2>
+        </section>
+
+        <section id="certifications" class="mt-10 mb-12">
+            <h2 class="text-red-600 text-3xl font-bold mb-4 underline">Certifications</h2>
             <div class="flex flex-wrap mx-4">
                 <!-- Certificate 1 -->
                 <div class="z-0 max-w-md rounded overflow-hidden shadow-lg p-4">
                     <img class="w-full" src="assets/docs/certs/deep-learning.png" alt="Sunset in the mountains">
                     <div class="px-6 py-4">
-                      <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
+                      <div class="font-bold text-xl mb-2">Deep Learning Specialization</div>
                       <p class="text-grey-darker text-base">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
                       </p>
@@ -132,9 +242,9 @@
 
                 <!-- Certificate 2-->
                 <div class="z-10 max-w-md rounded overflow-hidden shadow-lg p-4">
-                    <img class="w-full" src="assets/docs/certs/deep-learning.png" alt="Sunset in the mountains">
+                    <img class="w-full" src="assets/docs/certs/MachineLearning.png" alt="Sunset in the mountains">
                     <div class="px-6 py-4">
-                      <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
+                      <div class="font-bold text-xl mb-2">Machine Learning</div>
                       <p class="text-grey-darker text-base">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
                       </p>
@@ -148,9 +258,9 @@
 
                  <!-- Certificate 3-->
                  <div class="z-10 max-w-md rounded overflow-hidden shadow-lg p-4">
-                    <img class="w-full" src="assets/docs/certs/deep-learning.png" alt="Sunset in the mountains">
+                    <img class="w-full" src="assets/docs/certs/Database-SQL.png" alt="Sunset in the mountains">
                     <div class="px-6 py-4">
-                      <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
+                      <div class="font-bold text-xl mb-2">Databases and SQL for Data Science with Python</div>
                       <p class="text-grey-darker text-base">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
                       </p>
@@ -164,9 +274,25 @@
 
                  <!-- Certificate 4-->
                  <div class="z-10 max-w-md rounded overflow-hidden shadow-lg p-4">
-                    <img class="w-full" src="assets/docs/certs/deep-learning.png" alt="Sunset in the mountains">
+                    <img class="w-full" src="assets/docs/certs/web-app-tech.png" alt="Sunset in the mountains">
                     <div class="px-6 py-4">
-                      <div class="font-bold text-xl mb-2">The Coldest Sunset</div>
+                      <div class="font-bold text-xl mb-2">Web Application Technologies and Django</div>
+                      <p class="text-grey-darker text-base">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                      </p>
+                    </div>
+                    <div class="px-6 py-4">
+                      <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2">#photography</span>
+                      <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker mr-2">#travel</span>
+                      <span class="inline-block bg-grey-lighter rounded-full px-3 py-1 text-sm font-semibold text-grey-darker">#winter</span>
+                    </div>
+                </div>
+
+                 <!-- Certificate 5-->
+                 <div class="z-10 max-w-md rounded overflow-hidden shadow-lg p-4">
+                    <img class="w-full" src="assets/docs/certs/web-app-tech2.png" alt="Sunset in the mountains">
+                    <div class="px-6 py-4">
+                      <div class="font-bold text-xl mb-2">Building Web Applications in Django</div>
                       <p class="text-grey-darker text-base">
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
                       </p>
@@ -181,14 +307,7 @@
             </div>
         </section>
 
-        <section id="contact" class="mb-12">
-            <h2 class="text-blue-600 text-2xl font-bold mb-4">Contact</h2>
-        </section>
-
-        <section id="resume" class="mb-12">
-            <h2 class="text-blue-600 text-2xl font-bold mb-4">Download Resumé</h2>
-        </section>
     </main>
-
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script> -->
 </body>
 </html>
